@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -583,7 +583,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="leaks" aria-labelledby="leaks-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a tidy copper pipe joint under a sink" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a repaired pipe joint under a sink.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a tidy copper pipe joint under a sink" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a repaired pipe joint under a sink.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Leaks & Repairs</p>
       <h2 id="leaks-h">Leak and pipe repair</h2>
@@ -609,7 +609,7 @@ a{color:var(--bold-dark)}
 
 <section class="section section-alt svc svc-flip" id="drains" aria-labelledby="drains-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a kitchen sink draining freely" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a clear, freely draining sink.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen sink draining freely" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a clear, freely draining sink.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Drains</p>
       <h2 id="drains-h">Drain clearing and repair</h2>
@@ -635,7 +635,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="water-heaters" aria-labelledby="water-heaters-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060528_b61af51b-045d-4703-800d-5063a26bba19.png" width="1200" height="800" alt="AI-generated sample image: a residential water heater in a utility room" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a new water heater installed and connected.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a residential water heater in a utility room" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a new water heater installed and connected.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Water Heaters</p>
       <h2 id="water-heaters-h">Water heater repair and replacement</h2>

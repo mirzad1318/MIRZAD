@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -611,37 +611,37 @@ a{color:var(--bold-dark)}
 
     <div class="card-grid three" id="project-grid">
       <article class="card proj-card" data-cat="leaks">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png" width="1200" height="800" alt="AI-generated sample image: a kitchen sink cabinet with a repaired supply line" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen sink cabinet with a repaired supply line" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Leaks & Repairs &middot; {{custom_values.city_a}}</p><h3>Leak repair under a kitchen sink</h3><p>A slow drip fixed before it damaged the cabinet.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Find the source, replace the failed fitting, test for leaks, dry and clean the area</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="drains">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a floor drain being cleared" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a floor drain being cleared" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Drains &middot; {{custom_values.city_b}}</p><h3>Main drain cleared</h3><p>Repeated backups traced to a root-filled line.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Clear the blockage, camera-check the line, advise on repair if needed</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="water-heaters">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a new water heater in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a new water heater in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Water Heaters &middot; {{custom_values.city_a}}</p><h3>Water heater replacement</h3><p>An old leaking tank swapped for a new unit.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Drain and remove the old unit, install and connect the new one, test and explain the settings</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="leaks">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060528_b61af51b-045d-4703-800d-5063a26bba19.png" width="1200" height="800" alt="AI-generated sample image: a bathroom with new taps and fixtures" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a bathroom with new taps and fixtures" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Leaks & Repairs &middot; {{custom_values.city_b}}</p><h3>Bathroom fixture update</h3><p>Worn taps and a running toilet replaced.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Supply and fit new fixtures, replace worn valves, test for leaks</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="drains">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a bathtub draining freely" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a bathtub draining freely" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Drains &middot; {{custom_values.city_a}}</p><h3>Slow drain fix</h3><p>A tub that drained slowly cleared and checked.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Clear the line, check the venting and trap, confirm normal flow</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="water-heaters">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a wall-mounted tankless water heater" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a wall-mounted tankless water heater" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Water Heaters &middot; {{custom_values.city_b}}</p><h3>Tankless water heater install</h3><p>A compact tankless unit installed to save space.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove the old tank, install the tankless unit, vent and connect it, test</dd></dl></div>
       </article>

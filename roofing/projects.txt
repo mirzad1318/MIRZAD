@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044114_56409e09-d6a5-42c1-b00a-4b819c807fae.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/roofing/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -577,14 +577,14 @@ a{color:var(--bold-dark)}
     </div>
     <div class="ba" data-ba>
   <div class="ba-tabs" role="group" aria-label="Choose a comparison">
-    <button type="button" class="filter is-on" data-ba-tab="roof" aria-pressed="true" data-before="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_053944_0df52c2f-d3ba-418d-80cf-3d3c88c7b100.png" data-after="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044156_baa88b8a-1625-4c94-9677-2099b915cfa0.png" data-alt-before="AI-generated sample image: before, a weathered roof with moss and missing shingles" data-alt-after="AI-generated sample image: after, a new roof" data-cap="Same home, same view: weathered roof on the left, new roof on the right."><svg class="ico" aria-hidden="true"><use href="#i-roof"/></svg>Roofing</button>
-    <button type="button" class="filter" data-ba-tab="siding" aria-pressed="false" data-before="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060329_034f3b83-963a-4032-b70c-dc5bbb3e630f.png" data-after="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044312_00437fb3-9550-4151-b7d8-bdf192afbaf1.png" data-alt-before="AI-generated sample image: before, faded and damaged siding" data-alt-after="AI-generated sample image: after, new siding" data-cap="Same home, same view: faded, stained siding on the left, new siding on the right."><svg class="ico" aria-hidden="true"><use href="#i-siding"/></svg>Siding</button>
-    <button type="button" class="filter" data-ba-tab="gutters" aria-pressed="false" data-before="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060353_58346101-15d7-43ca-a86f-90bf41429fc3.png" data-after="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044348_44dac541-6dfc-49ea-a377-fffacc8cb66d.png" data-alt-before="AI-generated sample image: before, sagging and clogged gutters in the rain" data-alt-after="AI-generated sample image: after, new straight gutters in the rain" data-cap="Same home, same view: sagging, clogged gutters on the left, new gutters on the right."><svg class="ico" aria-hidden="true"><use href="#i-gutter"/></svg>Gutters</button>
+    <button type="button" class="filter is-on" data-ba-tab="roof" aria-pressed="true" data-before="https://mirzad1318.github.io/MIRZAD/img/roofing/ba-1-before.jpg" data-after="https://mirzad1318.github.io/MIRZAD/img/roofing/service-1.jpg" data-alt-before="AI-generated sample image: before, a weathered roof with moss and missing shingles" data-alt-after="AI-generated sample image: after, a new roof" data-cap="Same home, same view: weathered roof on the left, new roof on the right."><svg class="ico" aria-hidden="true"><use href="#i-roof"/></svg>Roofing</button>
+    <button type="button" class="filter" data-ba-tab="siding" aria-pressed="false" data-before="https://mirzad1318.github.io/MIRZAD/img/roofing/ba-2-before.jpg" data-after="https://mirzad1318.github.io/MIRZAD/img/roofing/service-2.jpg" data-alt-before="AI-generated sample image: before, faded and damaged siding" data-alt-after="AI-generated sample image: after, new siding" data-cap="Same home, same view: faded, stained siding on the left, new siding on the right."><svg class="ico" aria-hidden="true"><use href="#i-siding"/></svg>Siding</button>
+    <button type="button" class="filter" data-ba-tab="gutters" aria-pressed="false" data-before="https://mirzad1318.github.io/MIRZAD/img/roofing/ba-3-before.jpg" data-after="https://mirzad1318.github.io/MIRZAD/img/roofing/service-3.jpg" data-alt-before="AI-generated sample image: before, sagging and clogged gutters in the rain" data-alt-after="AI-generated sample image: after, new straight gutters in the rain" data-cap="Same home, same view: sagging, clogged gutters on the left, new gutters on the right."><svg class="ico" aria-hidden="true"><use href="#i-gutter"/></svg>Gutters</button>
     
   </div>
   <div class="ba-stage">
-    <img class="ba-img" id="ba-after" src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044156_baa88b8a-1625-4c94-9677-2099b915cfa0.png" width="1200" height="800" alt="AI-generated sample image: after, a new roof" decoding="async">
-    <div class="ba-clip"><img class="ba-img" id="ba-before" src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_053944_0df52c2f-d3ba-418d-80cf-3d3c88c7b100.png" width="1200" height="800" alt="AI-generated sample image: before, a weathered roof with moss and missing shingles" decoding="async"></div>
+    <img class="ba-img" id="ba-after" src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-1.jpg" width="1200" height="800" alt="AI-generated sample image: after, a new roof" decoding="async">
+    <div class="ba-clip"><img class="ba-img" id="ba-before" src="https://mirzad1318.github.io/MIRZAD/img/roofing/ba-1-before.jpg" width="1200" height="800" alt="AI-generated sample image: before, a weathered roof with moss and missing shingles" decoding="async"></div>
     <span class="ba-label ba-l-before">Before</span><span class="ba-label ba-l-after">After</span>
     <span class="ba-handle" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M9 6l-6 6 6 6M15 6l6 6-6 6" fill="none" stroke="#fff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></span>
     <input class="ba-range" type="range" min="0" max="100" value="50" aria-label="Drag to compare before and after">
@@ -611,37 +611,37 @@ a{color:var(--bold-dark)}
 
     <div class="card-grid three" id="project-grid">
       <article class="card proj-card" data-cat="roofing">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044003_d135c732-ef49-4d8b-80ba-3e7a5c5b60ad.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a cream home with a new dark shingle roof" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/about.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a cream home with a new dark shingle roof" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Roofing &middot; {{custom_values.city_a}}</p><h3>Roof replacement</h3><p>Full tear-off and new shingles on a two-storey home.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove old roofing, check the deck, new underlayment, shingles and flashing, clean-up</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="siding">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044312_00437fb3-9550-4151-b7d8-bdf192afbaf1.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with blue-grey lap siding and white trim" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with blue-grey lap siding and white trim" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Siding &middot; {{custom_values.city_b}}</p><h3>Siding refresh</h3><p>New lap siding and trim on the front of a family home.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove damaged siding, repair the wall underneath, install new siding, trim and sealant</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="gutters">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044348_44dac541-6dfc-49ea-a377-fffacc8cb66d.png" width="1200" height="800" alt="AI-generated sample image: Illustration of new gutters on a home during rain" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of new gutters on a home during rain" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Gutters &middot; {{custom_values.city_a}}</p><h3>Gutter replacement</h3><p>Overflowing gutters swapped out and downspouts re-aimed.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove old gutters, new gutters and downspouts, re-aim water away from the foundation</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="roofing">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044156_baa88b8a-1625-4c94-9677-2099b915cfa0.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with moss growing on worn roof shingles" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-1.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with moss growing on worn roof shingles" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Roofing &middot; {{custom_values.city_b}}</p><h3>Roof repair</h3><p>Moss, worn shingles and a slow leak over the front entry.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Find the leak, replace damaged shingles and flashing, treat or remove moss</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="siding">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044114_56409e09-d6a5-42c1-b00a-4b819c807fae.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with warm brown siding and white trim at dusk" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/hero.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a home with warm brown siding and white trim at dusk" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Siding &middot; {{custom_values.city_a}}</p><h3>Siding and trim update</h3><p>Warm new siding with fresh window and door trim.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>New siding, window and door trim, caulking and finishing details</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="gutters">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044348_44dac541-6dfc-49ea-a377-fffacc8cb66d.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a green-grey home with white gutters and downspouts" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a green-grey home with white gutters and downspouts" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Gutters &middot; {{custom_values.city_b}}</p><h3>Gutter and downspout repair</h3><p>Sagging runs re-hung and leaking joints resealed.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Re-hang and re-slope gutters, reseal joints, fix and re-aim downspouts</dd></dl></div>
       </article>

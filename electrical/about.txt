@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -576,7 +576,7 @@ a{color:var(--bold-dark)}
       <p>We keep it focused. Three services, two cities, and one clear way to reach us.</p>
       <p class="placeholder"><strong>Placeholder:</strong> add your company story here, such as who runs the business, how long you've been working locally and what kinds of jobs you do most.</p>
     </div>
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async"><figcaption>AI-generated sample image for demo purposes.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async"><figcaption>AI-generated sample image for demo purposes.</figcaption></figure>
   </div>
 </section>
 

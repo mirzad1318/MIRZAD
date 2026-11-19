@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -583,7 +583,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="heating" aria-labelledby="heating-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a furnace in a utility room" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a serviced furnace with a clean filter.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a furnace in a utility room" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a serviced furnace with a clean filter.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Heating</p>
       <h2 id="heating-h">Furnace and heat pump repair and replacement</h2>
@@ -609,7 +609,7 @@ a{color:var(--bold-dark)}
 
 <section class="section section-alt svc svc-flip" id="cooling" aria-labelledby="cooling-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: an outdoor air conditioner unit beside a house" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a clean, serviced outdoor cooling unit.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: an outdoor air conditioner unit beside a house" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a clean, serviced outdoor cooling unit.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Cooling</p>
       <h2 id="cooling-h">Air conditioning and cooling</h2>
@@ -635,7 +635,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="maintenance" aria-labelledby="maintenance-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060758_492b7661-346e-4803-bd2f-70b36bc70f2a.png" width="1200" height="800" alt="AI-generated sample image: a technician replacing an air filter" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a tidy, serviced air handler.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a technician replacing an air filter" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a tidy, serviced air handler.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Maintenance & Air Quality</p>
       <h2 id="maintenance-h">Tune-ups and indoor air quality</h2>

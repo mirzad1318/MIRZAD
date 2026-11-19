@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -611,37 +611,37 @@ a{color:var(--bold-dark)}
 
     <div class="card-grid three" id="project-grid">
       <article class="card proj-card" data-cat="repairs">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png" width="1200" height="800" alt="AI-generated sample image: an opened wall outlet being repaired" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg" width="1200" height="800" alt="AI-generated sample image: an opened wall outlet being repaired" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Repairs & Troubleshooting &middot; {{custom_values.city_a}}</p><h3>Tripping breaker fixed</h3><p>A circuit that kept tripping traced and repaired.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Find the fault, repair or replace the failed part, test the circuit</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="panels">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a new electrical panel with labelled breakers" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new electrical panel with labelled breakers" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Panels & Upgrades &middot; {{custom_values.city_b}}</p><h3>Panel upgrade</h3><p>An older panel replaced to add capacity.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Replace the panel, reconnect and label circuits, arrange inspection</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="lighting">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: a kitchen with new recessed lights" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen with new recessed lights" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Lighting & Outlets &middot; {{custom_values.city_a}}</p><h3>Pot light install</h3><p>Recessed lighting added to a kitchen.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Plan the layout, install fixtures and a dimmer, test and tidy up</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="repairs">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060913_460df70e-88e6-49e6-9863-4f8989855c71.png" width="1200" height="800" alt="AI-generated sample image: a room with new outlets and switches" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a room with new outlets and switches" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Repairs & Troubleshooting &middot; {{custom_values.city_b}}</p><h3>Outlet and switch replacement</h3><p>Worn outlets and switches replaced throughout a room.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Replace devices, check connections, test and label</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="panels">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a wall-mounted home EV charger" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a wall-mounted home EV charger" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Panels & Upgrades &middot; {{custom_values.city_a}}</p><h3>EV charger circuit</h3><p>A dedicated circuit added for a home charger.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Run the circuit, install the charging outlet or unit, test and inspect</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="lighting">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: outdoor lights beside a front entry" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: outdoor lights beside a front entry" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Lighting & Outlets &middot; {{custom_values.city_b}}</p><h3>Outdoor lighting</h3><p>Path and entry lighting added for safety.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Plan locations, run weatherproof wiring, install fixtures and controls</dd></dl></div>
       </article>

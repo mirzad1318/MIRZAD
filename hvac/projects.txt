@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -611,37 +611,37 @@ a{color:var(--bold-dark)}
 
     <div class="card-grid three" id="project-grid">
       <article class="card proj-card" data-cat="heating">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png" width="1200" height="800" alt="AI-generated sample image: a new furnace installed in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a new furnace installed in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Heating &middot; {{custom_values.city_a}}</p><h3>Furnace replacement</h3><p>An ageing furnace replaced with a new high-efficiency unit.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove the old furnace, install and connect the new one, test and explain operation</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="cooling">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a new outdoor air conditioner beside a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new outdoor air conditioner beside a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Cooling &middot; {{custom_values.city_b}}</p><h3>Air conditioner install</h3><p>A new outdoor unit added to a family home.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Set the outdoor unit, connect lines and controls, commission and test</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="maintenance">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: a technician servicing a furnace" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a technician servicing a furnace" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Maintenance & Air Quality &middot; {{custom_values.city_a}}</p><h3>Seasonal tune-up</h3><p>A heating system checked and cleaned before winter.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Inspect, clean, test safety controls, replace the filter, report findings</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="heating">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060758_492b7661-346e-4803-bd2f-70b36bc70f2a.png" width="1200" height="800" alt="AI-generated sample image: an outdoor heat pump unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: an outdoor heat pump unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Heating &middot; {{custom_values.city_b}}</p><h3>Heat pump install</h3><p>A heat pump installed to heat and cool one system.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Install indoor and outdoor units, connect controls, test heating and cooling</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="cooling">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a technician repairing an outdoor unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a technician repairing an outdoor unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Cooling &middot; {{custom_values.city_a}}</p><h3>Cooling repair</h3><p>A unit that blew warm air diagnosed and repaired.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Diagnose the fault, repair or replace the failed part, test cooling output</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="maintenance">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: a clean air filter and vent" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a clean air filter and vent" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Maintenance & Air Quality &middot; {{custom_values.city_b}}</p><h3>Filter and airflow upgrade</h3><p>Dusty rooms improved with a better filter setup.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Assess airflow, upgrade filters, clean accessible parts, test</dd></dl></div>
       </article>

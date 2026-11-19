@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044114_56409e09-d6a5-42c1-b00a-4b819c807fae.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/roofing/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -583,7 +583,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="roofing" aria-labelledby="roofing-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044156_baa88b8a-1625-4c94-9677-2099b915cfa0.png" width="1200" height="800" alt="AI-generated sample image: Illustration of asphalt shingles, new on one side and weathered on the other" loading="lazy" decoding="async"><figcaption>AI-generated sample image: new shingles (left) next to a moss-covered roof (right).</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-1.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of asphalt shingles, new on one side and weathered on the other" loading="lazy" decoding="async"><figcaption>AI-generated sample image: new shingles (left) next to a moss-covered roof (right).</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Roofing</p>
       <h2 id="roofing-h">Roof repair and replacement</h2>
@@ -609,7 +609,7 @@ a{color:var(--bold-dark)}
 
 <section class="section section-alt svc svc-flip" id="siding" aria-labelledby="siding-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044312_00437fb3-9550-4151-b7d8-bdf192afbaf1.png" width="1200" height="800" alt="AI-generated sample image: Illustration of horizontal lap siding around a window" loading="lazy" decoding="async"><figcaption>AI-generated sample image: lap siding with window and corner trim.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of horizontal lap siding around a window" loading="lazy" decoding="async"><figcaption>AI-generated sample image: lap siding with window and corner trim.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Siding</p>
       <h2 id="siding-h">Siding repair and replacement</h2>
@@ -635,7 +635,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="gutters" aria-labelledby="gutters-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_044348_44dac541-6dfc-49ea-a377-fffacc8cb66d.png" width="1200" height="800" alt="AI-generated sample image: Illustration of a gutter and downspout at the roof edge in the rain" loading="lazy" decoding="async"><figcaption>AI-generated sample image: gutter and downspout carrying rain away from the wall.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/roofing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: Illustration of a gutter and downspout at the roof edge in the rain" loading="lazy" decoding="async"><figcaption>AI-generated sample image: gutter and downspout carrying rain away from the wall.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Gutters</p>
       <h2 id="gutters-h">Gutter repair and replacement</h2>

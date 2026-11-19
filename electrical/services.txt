@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -583,7 +583,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="repairs" aria-labelledby="repairs-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a wall outlet and switch plate" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a new outlet and switch installed.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a wall outlet and switch plate" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a new outlet and switch installed.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Repairs & Troubleshooting</p>
       <h2 id="repairs-h">Electrical repairs and troubleshooting</h2>
@@ -609,7 +609,7 @@ a{color:var(--bold-dark)}
 
 <section class="section section-alt svc svc-flip" id="panels" aria-labelledby="panels-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async"><figcaption>AI-generated sample image: an updated panel with clear labels.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async"><figcaption>AI-generated sample image: an updated panel with clear labels.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Panels & Upgrades</p>
       <h2 id="panels-h">Panel and service upgrades</h2>
@@ -635,7 +635,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="lighting" aria-labelledby="lighting-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060913_460df70e-88e6-49e6-9863-4f8989855c71.png" width="1200" height="800" alt="AI-generated sample image: a kitchen with recessed lighting" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a kitchen with new recessed lighting.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen with recessed lighting" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a kitchen with new recessed lighting.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Lighting & Outlets</p>
       <h2 id="lighting-h">Lighting and outlet installs</h2>

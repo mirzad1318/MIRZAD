@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -603,7 +603,7 @@ a{color:var(--bold-dark)}
 
 <section class="section" aria-labelledby="about-h">
   <div class="wrap about-teaser">
-    <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a home addition under construction" loading="lazy" decoding="async">
+    <img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a home addition under construction" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow eyebrow-dark">About us</p>
       <h2 id="about-h">Built on reliability and quality</h2>
@@ -642,7 +642,7 @@ a{color:var(--bold-dark)}
     </div>
     <div class="card-grid three">
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a kitchen being renovated" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen being renovated" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-hammer"/></svg>Renovations</h3>
           <p>Kitchens, bathrooms and whole-room updates.</p>
@@ -650,7 +650,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a deck frame under construction" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a deck frame under construction" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-ruler"/></svg>Additions & Decks</h3>
           <p>Home additions, decks and outdoor structures.</p>
@@ -658,7 +658,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061036_65894cf9-bb5b-48ff-94a5-39d24a3698b5.png" width="1200" height="800" alt="AI-generated sample image: an unfinished basement with framing" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: an unfinished basement with framing" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-home"/></svg>Basements & Interior Finishing</h3>
           <p>Basements, drywall, trim and interior finishing.</p>
@@ -756,12 +756,12 @@ a{color:var(--bold-dark)}
       <a class="link-arrow" href="/projects">See all project examples <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
     </div>
     <div class="gallery">
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png" data-cap="Kitchen renovation: An outdated kitchen opened up with new cabinets and counters." aria-label="Enlarge: Kitchen renovation"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png" width="1200" height="800" alt="AI-generated sample image: a renovated kitchen with new cabinets" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" data-cap="Backyard deck: A new deck replacing a worn one." aria-label="Enlarge: Backyard deck"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a new wooden deck behind a house" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" data-cap="Basement finish: An unused basement turned into a living space." aria-label="Enlarge: Basement finish"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a finished basement living room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061036_65894cf9-bb5b-48ff-94a5-39d24a3698b5.png" data-cap="Bathroom update: A dated bathroom reworked with a new tub and tile." aria-label="Enlarge: Bathroom update"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061036_65894cf9-bb5b-48ff-94a5-39d24a3698b5.png" width="1200" height="800" alt="AI-generated sample image: a renovated bathroom with new tile" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" data-cap="Small home addition: Extra living space added to the back of a home." aria-label="Enlarge: Small home addition"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a small addition on the back of a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" data-cap="Interior trim and drywall: Worn walls and trim refreshed throughout." aria-label="Enlarge: Interior trim and drywall"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a living room with new trim and paint" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg" data-cap="Kitchen renovation: An outdated kitchen opened up with new cabinets and counters." aria-label="Enlarge: Kitchen renovation"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a renovated kitchen with new cabinets" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" data-cap="Backyard deck: A new deck replacing a worn one." aria-label="Enlarge: Backyard deck"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new wooden deck behind a house" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" data-cap="Basement finish: An unused basement turned into a living space." aria-label="Enlarge: Basement finish"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a finished basement living room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/service-3.jpg" data-cap="Bathroom update: A dated bathroom reworked with a new tub and tile." aria-label="Enlarge: Bathroom update"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a renovated bathroom with new tile" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" data-cap="Small home addition: Extra living space added to the back of a home." aria-label="Enlarge: Small home addition"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a small addition on the back of a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" data-cap="Interior trim and drywall: Worn walls and trim refreshed throughout." aria-label="Enlarge: Interior trim and drywall"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a living room with new trim and paint" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
       
     </div>
   </div>

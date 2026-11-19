@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -603,7 +603,7 @@ a{color:var(--bold-dark)}
 
 <section class="section" aria-labelledby="about-h">
   <div class="wrap about-teaser">
-    <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a plumber's tools beside a kitchen sink" loading="lazy" decoding="async">
+    <img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a plumber's tools beside a kitchen sink" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow eyebrow-dark">About us</p>
       <h2 id="about-h">Built on reliability and quality</h2>
@@ -642,7 +642,7 @@ a{color:var(--bold-dark)}
     </div>
     <div class="card-grid three">
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a tidy copper pipe joint under a sink" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a tidy copper pipe joint under a sink" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-pipe"/></svg>Leaks & Repairs</h3>
           <p>Dripping, burst or hidden leaks found and fixed.</p>
@@ -650,7 +650,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a kitchen sink draining freely" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen sink draining freely" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-drop"/></svg>Drains</h3>
           <p>Slow, smelly or blocked drains cleared and checked.</p>
@@ -658,7 +658,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060528_b61af51b-045d-4703-800d-5063a26bba19.png" width="1200" height="800" alt="AI-generated sample image: a residential water heater in a utility room" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a residential water heater in a utility room" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-flame"/></svg>Water Heaters</h3>
           <p>Repairs and replacements for tank and tankless units.</p>
@@ -756,12 +756,12 @@ a{color:var(--bold-dark)}
       <a class="link-arrow" href="/projects">See all project examples <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
     </div>
     <div class="gallery">
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png" data-cap="Leak repair under a kitchen sink: A slow drip fixed before it damaged the cabinet." aria-label="Enlarge: Leak repair under a kitchen sink"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060415_b2b67883-a10b-45eb-a94d-b753a1771157.png" width="1200" height="800" alt="AI-generated sample image: a kitchen sink cabinet with a repaired supply line" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" data-cap="Main drain cleared: Repeated backups traced to a root-filled line." aria-label="Enlarge: Main drain cleared"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a floor drain being cleared" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" data-cap="Water heater replacement: An old leaking tank swapped for a new unit." aria-label="Enlarge: Water heater replacement"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a new water heater in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060528_b61af51b-045d-4703-800d-5063a26bba19.png" data-cap="Bathroom fixture update: Worn taps and a running toilet replaced." aria-label="Enlarge: Bathroom fixture update"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060528_b61af51b-045d-4703-800d-5063a26bba19.png" width="1200" height="800" alt="AI-generated sample image: a bathroom with new taps and fixtures" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" data-cap="Slow drain fix: A tub that drained slowly cleared and checked." aria-label="Enlarge: Slow drain fix"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060442_3674980f-a0b7-4b45-ba9c-1141a650fc11.png" width="1200" height="800" alt="AI-generated sample image: a bathtub draining freely" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" data-cap="Tankless water heater install: A compact tankless unit installed to save space." aria-label="Enlarge: Tankless water heater install"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060508_a763911e-e082-4ee1-a35f-17109acaab07.png" width="1200" height="800" alt="AI-generated sample image: a wall-mounted tankless water heater" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg" data-cap="Leak repair under a kitchen sink: A slow drip fixed before it damaged the cabinet." aria-label="Enlarge: Leak repair under a kitchen sink"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen sink cabinet with a repaired supply line" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" data-cap="Main drain cleared: Repeated backups traced to a root-filled line." aria-label="Enlarge: Main drain cleared"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a floor drain being cleared" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" data-cap="Water heater replacement: An old leaking tank swapped for a new unit." aria-label="Enlarge: Water heater replacement"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a new water heater in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-3.jpg" data-cap="Bathroom fixture update: Worn taps and a running toilet replaced." aria-label="Enlarge: Bathroom fixture update"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a bathroom with new taps and fixtures" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" data-cap="Slow drain fix: A tub that drained slowly cleared and checked." aria-label="Enlarge: Slow drain fix"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/about.jpg" width="1200" height="800" alt="AI-generated sample image: a bathtub draining freely" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" data-cap="Tankless water heater install: A compact tankless unit installed to save space." aria-label="Enlarge: Tankless water heater install"><img src="https://mirzad1318.github.io/MIRZAD/img/plumbing/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a wall-mounted tankless water heater" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
       
     </div>
   </div>

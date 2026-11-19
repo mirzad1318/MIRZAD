@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -603,7 +603,7 @@ a{color:var(--bold-dark)}
 
 <section class="section" aria-labelledby="about-h">
   <div class="wrap about-teaser">
-    <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async">
+    <img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow eyebrow-dark">About us</p>
       <h2 id="about-h">Built on reliability and quality</h2>
@@ -642,7 +642,7 @@ a{color:var(--bold-dark)}
     </div>
     <div class="card-grid three">
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a wall outlet and switch plate" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a wall outlet and switch plate" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-bolt"/></svg>Repairs & Troubleshooting</h3>
           <p>Outlets, switches, breakers and faults diagnosed and fixed.</p>
@@ -650,7 +650,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: an electrical panel with labelled breakers" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-panel"/></svg>Panels & Upgrades</h3>
           <p>Panel upgrades and added circuits for modern loads.</p>
@@ -658,7 +658,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060913_460df70e-88e6-49e6-9863-4f8989855c71.png" width="1200" height="800" alt="AI-generated sample image: a kitchen with recessed lighting" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen with recessed lighting" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-bulb"/></svg>Lighting & Outlets</h3>
           <p>New lighting, outlets and fixtures installed cleanly.</p>
@@ -756,12 +756,12 @@ a{color:var(--bold-dark)}
       <a class="link-arrow" href="/projects">See all project examples <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
     </div>
     <div class="gallery">
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png" data-cap="Tripping breaker fixed: A circuit that kept tripping traced and repaired." aria-label="Enlarge: Tripping breaker fixed"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060817_a0846374-7e59-4604-8ed6-48aad5dc035e.png" width="1200" height="800" alt="AI-generated sample image: an opened wall outlet being repaired" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" data-cap="Panel upgrade: An older panel replaced to add capacity." aria-label="Enlarge: Panel upgrade"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a new electrical panel with labelled breakers" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" data-cap="Pot light install: Recessed lighting added to a kitchen." aria-label="Enlarge: Pot light install"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: a kitchen with new recessed lights" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060913_460df70e-88e6-49e6-9863-4f8989855c71.png" data-cap="Outlet and switch replacement: Worn outlets and switches replaced throughout a room." aria-label="Enlarge: Outlet and switch replacement"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060913_460df70e-88e6-49e6-9863-4f8989855c71.png" width="1200" height="800" alt="AI-generated sample image: a room with new outlets and switches" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" data-cap="EV charger circuit: A dedicated circuit added for a home charger." aria-label="Enlarge: EV charger circuit"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060835_bfe77bf8-76eb-4b3b-b2d9-3986e2f28ecb.png" width="1200" height="800" alt="AI-generated sample image: a wall-mounted home EV charger" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" data-cap="Outdoor lighting: Path and entry lighting added for safety." aria-label="Enlarge: Outdoor lighting"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060854_197d7207-a3df-4394-96fb-205aa98b0cd3.png" width="1200" height="800" alt="AI-generated sample image: outdoor lights beside a front entry" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg" data-cap="Tripping breaker fixed: A circuit that kept tripping traced and repaired." aria-label="Enlarge: Tripping breaker fixed"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/hero.jpg" width="1200" height="800" alt="AI-generated sample image: an opened wall outlet being repaired" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" data-cap="Panel upgrade: An older panel replaced to add capacity." aria-label="Enlarge: Panel upgrade"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new electrical panel with labelled breakers" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" data-cap="Pot light install: Recessed lighting added to a kitchen." aria-label="Enlarge: Pot light install"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen with new recessed lights" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/service-3.jpg" data-cap="Outlet and switch replacement: Worn outlets and switches replaced throughout a room." aria-label="Enlarge: Outlet and switch replacement"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a room with new outlets and switches" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" data-cap="EV charger circuit: A dedicated circuit added for a home charger." aria-label="Enlarge: EV charger circuit"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/about.jpg" width="1200" height="800" alt="AI-generated sample image: a wall-mounted home EV charger" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" data-cap="Outdoor lighting: Path and entry lighting added for safety." aria-label="Enlarge: Outdoor lighting"><img src="https://mirzad1318.github.io/MIRZAD/img/electrical/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: outdoor lights beside a front entry" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
       
     </div>
   </div>

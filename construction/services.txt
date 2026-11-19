@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -583,7 +583,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="renovations" aria-labelledby="renovations-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a kitchen being renovated" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished renovated kitchen.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a kitchen being renovated" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished renovated kitchen.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Renovations</p>
       <h2 id="renovations-h">Kitchen, bath and room renovations</h2>
@@ -609,7 +609,7 @@ a{color:var(--bold-dark)}
 
 <section class="section section-alt svc svc-flip" id="additions" aria-labelledby="additions-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a deck frame under construction" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished wood deck at a home.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a deck frame under construction" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished wood deck at a home.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Additions & Decks</p>
       <h2 id="additions-h">Additions and decks</h2>
@@ -635,7 +635,7 @@ a{color:var(--bold-dark)}
 
 <section class="section svc" id="basements" aria-labelledby="basements-h">
   <div class="wrap svc-grid">
-    <figure class="svc-fig"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061036_65894cf9-bb5b-48ff-94a5-39d24a3698b5.png" width="1200" height="800" alt="AI-generated sample image: an unfinished basement with framing" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished basement living area.</figcaption></figure>
+    <figure class="svc-fig"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: an unfinished basement with framing" loading="lazy" decoding="async"><figcaption>AI-generated sample image: a finished basement living area.</figcaption></figure>
     <div>
       <p class="eyebrow eyebrow-dark">Basements & Interior Finishing</p>
       <h2 id="basements-h">Basements and interior finishing</h2>

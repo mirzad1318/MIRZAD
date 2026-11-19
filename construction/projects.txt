@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -611,37 +611,37 @@ a{color:var(--bold-dark)}
 
     <div class="card-grid three" id="project-grid">
       <article class="card proj-card" data-cat="renovations">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060934_405c54f0-481c-4ddc-9990-668531c45828.png" width="1200" height="800" alt="AI-generated sample image: a renovated kitchen with new cabinets" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a renovated kitchen with new cabinets" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Renovations &middot; {{custom_values.city_a}}</p><h3>Kitchen renovation</h3><p>An outdated kitchen opened up with new cabinets and counters.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Demolition, new layout, cabinets, counters, finishing and clean-up</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="additions">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a new wooden deck behind a house" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new wooden deck behind a house" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Additions & Decks &middot; {{custom_values.city_b}}</p><h3>Backyard deck</h3><p>A new deck replacing a worn one.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Remove the old deck, build the new frame and surface, add railings and stairs</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="basements">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a finished basement living room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a finished basement living room" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Basements & Interior Finishing &middot; {{custom_values.city_a}}</p><h3>Basement finish</h3><p>An unused basement turned into a living space.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Frame, insulate, drywall, trim, flooring and paint</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="renovations">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061036_65894cf9-bb5b-48ff-94a5-39d24a3698b5.png" width="1200" height="800" alt="AI-generated sample image: a renovated bathroom with new tile" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a renovated bathroom with new tile" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Renovations &middot; {{custom_values.city_b}}</p><h3>Bathroom update</h3><p>A dated bathroom reworked with a new tub and tile.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Demolition, new plumbing and fixtures, tile, vanity and finishing</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="additions">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060956_37026bb2-978e-4376-8389-17bd92fa17cc.png" width="1200" height="800" alt="AI-generated sample image: a small addition on the back of a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/about.jpg" width="1200" height="800" alt="AI-generated sample image: a small addition on the back of a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Additions & Decks &middot; {{custom_values.city_a}}</p><h3>Small home addition</h3><p>Extra living space added to the back of a home.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Foundation, framing, roofing, finishing and connection to the main house</dd></dl></div>
       </article>
 
       <article class="card proj-card" data-cat="basements">
-        <div class="proj-img"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_061015_835ec3a3-24dc-4d32-94ae-d03904ac9333.png" width="1200" height="800" alt="AI-generated sample image: a living room with new trim and paint" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
+        <div class="proj-img"><img src="https://mirzad1318.github.io/MIRZAD/img/construction/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a living room with new trim and paint" loading="lazy" decoding="async"><span class="badge">Sample project</span></div>
         <div class="card-body"><p class="tag">Basements & Interior Finishing &middot; {{custom_values.city_b}}</p><h3>Interior trim and drywall</h3><p>Worn walls and trim refreshed throughout.</p>
           <dl class="scope"><dt>Typical scope</dt><dd>Repair drywall, install trim, prime and paint</dd></dl></div>
       </article>

@@ -13,7 +13,7 @@
   --slate: #1d1d1b;
   --on-accent: #1d1d1b;
 }
-:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png)}
+:root{--font-head:'Montserrat',Georgia,serif;--font-body:'Inter',system-ui,sans-serif;--hero-img:url(https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg)}
 /* Contractor site template. Colours and fonts come from theme.css (built from config.json). */
 *,*::before,*::after{box-sizing:border-box}
 html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
@@ -603,7 +603,7 @@ a{color:var(--bold-dark)}
 
 <section class="section" aria-labelledby="about-h">
   <div class="wrap about-teaser">
-    <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a technician checking a heat pump outside a home" loading="lazy" decoding="async">
+    <img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a technician checking a heat pump outside a home" loading="lazy" decoding="async">
     <div>
       <p class="eyebrow eyebrow-dark">About us</p>
       <h2 id="about-h">Built on reliability and quality</h2>
@@ -642,7 +642,7 @@ a{color:var(--bold-dark)}
     </div>
     <div class="card-grid three">
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a furnace in a utility room" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a furnace in a utility room" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-flame"/></svg>Heating</h3>
           <p>Furnace and heat pump repair and replacement.</p>
@@ -650,7 +650,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: an outdoor air conditioner unit beside a house" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: an outdoor air conditioner unit beside a house" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-snow"/></svg>Cooling</h3>
           <p>Air conditioner and heat pump cooling service.</p>
@@ -658,7 +658,7 @@ a{color:var(--bold-dark)}
         </div>
       </article>
       <article class="card svc-card">
-        <img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060758_492b7661-346e-4803-bd2f-70b36bc70f2a.png" width="1200" height="800" alt="AI-generated sample image: a technician replacing an air filter" loading="lazy" decoding="async">
+        <img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: a technician replacing an air filter" loading="lazy" decoding="async">
         <div class="card-body">
           <h3><svg class="ico" aria-hidden="true"><use href="#i-fan"/></svg>Maintenance & Air Quality</h3>
           <p>Tune-ups, filters and indoor air quality.</p>
@@ -756,12 +756,12 @@ a{color:var(--bold-dark)}
       <a class="link-arrow" href="/projects">See all project examples <svg class="ico" aria-hidden="true"><use href="#i-arrow"/></svg></a>
     </div>
     <div class="gallery">
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png" data-cap="Furnace replacement: An ageing furnace replaced with a new high-efficiency unit." aria-label="Enlarge: Furnace replacement"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060655_620165ba-e465-4904-9790-2d9fd21f0b50.png" width="1200" height="800" alt="AI-generated sample image: a new furnace installed in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" data-cap="Air conditioner install: A new outdoor unit added to a family home." aria-label="Enlarge: Air conditioner install"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a new outdoor air conditioner beside a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" data-cap="Seasonal tune-up: A heating system checked and cleaned before winter." aria-label="Enlarge: Seasonal tune-up"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: a technician servicing a furnace" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060758_492b7661-346e-4803-bd2f-70b36bc70f2a.png" data-cap="Heat pump install: A heat pump installed to heat and cool one system." aria-label="Enlarge: Heat pump install"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060758_492b7661-346e-4803-bd2f-70b36bc70f2a.png" width="1200" height="800" alt="AI-generated sample image: an outdoor heat pump unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" data-cap="Cooling repair: A unit that blew warm air diagnosed and repaired." aria-label="Enlarge: Cooling repair"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060714_f704c8fe-d194-49d7-8c3b-4ee79846eb83.png" width="1200" height="800" alt="AI-generated sample image: a technician repairing an outdoor unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
-      <button type="button" class="gal" data-lightbox="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" data-cap="Filter and airflow upgrade: Dusty rooms improved with a better filter setup." aria-label="Enlarge: Filter and airflow upgrade"><img src="https://d8j0ntlcm91z4.cloudfront.net/user_3MJJTOdBloFjSU1KW1w8ji0wQHN/hf_20261119_060735_c4c61cde-2b9e-42e3-a0db-79b877ee2823.png" width="1200" height="800" alt="AI-generated sample image: a clean air filter and vent" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg" data-cap="Furnace replacement: An ageing furnace replaced with a new high-efficiency unit." aria-label="Enlarge: Furnace replacement"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/hero.jpg" width="1200" height="800" alt="AI-generated sample image: a new furnace installed in a utility room" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" data-cap="Air conditioner install: A new outdoor unit added to a family home." aria-label="Enlarge: Air conditioner install"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a new outdoor air conditioner beside a home" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" data-cap="Seasonal tune-up: A heating system checked and cleaned before winter." aria-label="Enlarge: Seasonal tune-up"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a technician servicing a furnace" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/service-3.jpg" data-cap="Heat pump install: A heat pump installed to heat and cool one system." aria-label="Enlarge: Heat pump install"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-3.jpg" width="1200" height="800" alt="AI-generated sample image: an outdoor heat pump unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" data-cap="Cooling repair: A unit that blew warm air diagnosed and repaired." aria-label="Enlarge: Cooling repair"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/about.jpg" width="1200" height="800" alt="AI-generated sample image: a technician repairing an outdoor unit" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
+      <button type="button" class="gal" data-lightbox="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" data-cap="Filter and airflow upgrade: Dusty rooms improved with a better filter setup." aria-label="Enlarge: Filter and airflow upgrade"><img src="https://mirzad1318.github.io/MIRZAD/img/hvac/service-2.jpg" width="1200" height="800" alt="AI-generated sample image: a clean air filter and vent" loading="lazy" decoding="async"><span class="badge">Sample project</span></button>
       
     </div>
   </div>
